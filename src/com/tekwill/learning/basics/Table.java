@@ -1,6 +1,6 @@
 package com.tekwill.learning.basics;
 
-public class table {
+public class Table {
 
     public static void main(String[] arg) {
         System.out.println("\t\t(\"X                        X\");\n" +
