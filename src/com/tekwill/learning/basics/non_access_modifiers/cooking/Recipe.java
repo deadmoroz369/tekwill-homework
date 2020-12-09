@@ -11,14 +11,13 @@ public class Recipe {
         this.description = description;
     }
 
-    static char markAsCooked() {
+    public static void markAsCooked() {
         System.out.println("Cooooked!");
-        return 0;
     }
 
-    public char update() {
+    public void update() {
         System.out.println("Updated");
-        return 0;
+
     }
 
     @Override
