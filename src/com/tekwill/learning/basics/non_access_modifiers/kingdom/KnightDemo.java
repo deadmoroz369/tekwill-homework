@@ -7,8 +7,8 @@ public class KnightDemo {
 
         System.out.println(k1);
         System.out.println(k2);
-        System.out.println(k1.fight());
-        System.out.println(Knight.invokeMagic());
+        k1.fight();
+        Knight.invokeMagic();
     }
 
 
