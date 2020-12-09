@@ -3,8 +3,8 @@ package com.tekwill.learning.basics.non_access_modifiers.cooking;
 public class Recipe {
 
     static String source_url = "https://www.allrecipes.com/recipe/273221/vegan-chocolate-chip-cookies/";
-    private final String title;
-    private final String description;
+    final String title;
+    final String description;
 
     public Recipe(String title, String description) {
         this.title = title;

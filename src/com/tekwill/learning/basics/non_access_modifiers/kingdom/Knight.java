@@ -3,8 +3,8 @@ package com.tekwill.learning.basics.non_access_modifiers.kingdom;
 public class Knight {
 
     static String guild = "Hunters";
-    private final int age;
-    private final String nickname;
+    final int age;
+    final String nickname;
 
 
     public Knight(int age, String nickname) {
@@ -24,7 +24,7 @@ public class Knight {
 
     @Override
     public String toString() {
-        return "The knight: " + nickname + " is " + age + " years old!\n";
+        return "The knight: " + nickname + " is " + age + " years old!\n" + "of the guild: " + guild;
 
 
     }
