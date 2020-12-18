@@ -1,4 +1,4 @@
-package com.learning.tekwill.quiz;
+package com.tekwill.learning.quiz;
 
 
 import java.util.Scanner;
