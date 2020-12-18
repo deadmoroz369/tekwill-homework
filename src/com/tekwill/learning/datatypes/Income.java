@@ -8,7 +8,7 @@ public class Income {
         String performanceMeasures = "Performance Measures";
         String totalTaxes = "Total Tax Revenue";
         String property = "Property";
-        String income = "Unused";
+        String income = "Income";
         String sales = "Sales";
         String notApplicable = "(N/A)";
         String straightLine = "||";

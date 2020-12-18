@@ -1,8 +1,8 @@
 package com.tekwill.learning.basics.world_population;
 
 public class Population {
-    final long current = 7831436009L;
-    final double rate = 1.05;
+    long current = 7831436009L;
+    double rate = 1.05;
     final String world = "World Population Prospect the 2019 Revision - United Nations,\nDepartment of Economic and Social Affairs, Population Division\n(June 2019)";
     final String census = "International Programs Center at the U.S. Census Bureau,\nPopulation Division";
 
