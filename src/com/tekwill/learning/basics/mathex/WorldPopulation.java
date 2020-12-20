@@ -8,7 +8,7 @@ public class WorldPopulation {
         System.out.println("Enter the world population number:");
         long world = scanner.nextLong();
         System.out.println("Choose a country:");
-        String chooseCountry = scanner.next();
+        String chooseCountry = scanner.next(); //won't run if >1 String
         System.out.println("Enter the total population of " + chooseCountry + ":");
         long country = scanner.nextLong();
         double percentResult = (double) country / world * 100;
