@@ -6,8 +6,8 @@ public class SphereRadius {
         final int SPHERE_RADIUS = 10;
         final int RADIUS_TO_3 = SPHERE_RADIUS * SPHERE_RADIUS * SPHERE_RADIUS;
         double PI = Math.PI;
-        double FRACTION = 4.0 / 3.0;
-        double FORMULA = FRACTION * PI * RADIUS_TO_3;
+        double DIVISION = 4.0 / 3.0;
+        double FORMULA = DIVISION * PI * RADIUS_TO_3;
 
         System.out.printf("%.2f", FORMULA);
     }
