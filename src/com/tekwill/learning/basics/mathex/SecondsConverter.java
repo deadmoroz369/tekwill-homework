@@ -16,7 +16,7 @@ public class SecondsConverter {
         n %= 60;
         long seconds = n;
 
-        System.out.printf("%s%,d%s%d%s%d%s%d%s%d%s", "You entered: ", n1, " seconds, that equals to:\n", days, " days, ", hours, "hours, ", minutes, " minutes, ", seconds, " seconds.");
+        System.out.printf("%s%,d%s%d%s%d%s%d%s%d%s", "You entered: ", n1, " seconds, that equals to: \n", days, " days, ", hours, "hours, ", minutes, " minutes, ", seconds, " seconds.");
 
 
     }
