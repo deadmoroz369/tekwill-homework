@@ -1,4 +1,4 @@
-package com.tekwill.learning.basics.mathex;
+package com.tekwill.learning.basics.mathex.convertion;
 
 import java.util.Scanner;
 
