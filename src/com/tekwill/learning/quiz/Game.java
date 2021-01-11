@@ -117,18 +117,18 @@ public class Game {
                         currentScore += 0; // incorrect answer + 0 point
 
                     }
-                    if (questionResponse.equalsIgnoreCase(help)) {
-                        System.out.println("Choose who's help you want: \na)Friend\nb)Auditory\nc)Probability");
-                        String getHelp = scanner.nextLine();
-                        if (getHelp.equalsIgnoreCase("A")) {
-                            System.out.println(friend + currentCorrectAnswer);
-                        }
-                        if (getHelp.equalsIgnoreCase("B")) {
-                            System.out.println(auditory + "A:" + new Random().nextInt(10) + " B:" + new Random().nextInt(15) + " C:" + new Random().nextInt(25) + " D:" + new Random().nextInt(50));
-                        }
-                        if (getHelp.equalsIgnoreCase("C")) {
-                            System.out.println(probability + "A:" + 50 + " C:" + 50);
-                        }
+//                     if (questionResponse.equalsIgnoreCase(help)) {
+//                         System.out.println("Choose who's help you want: \na)Friend\nb)Auditory\nc)Probability");
+//                         String getHelp = scanner.nextLine();
+//                         if (getHelp.equalsIgnoreCase("A")) {
+//careful this here has bugs System.out.println(friend + currentCorrectAnswer);
+//                         }
+//                         if (getHelp.equalsIgnoreCase("B")) {
+//                             System.out.println(auditory + "A:" + new Random().nextInt(10) + " B:" + new Random().nextInt(15) + " C:" + new Random().nextInt(25) + " D:" + new Random().nextInt(50));
+//                         }
+//                         if (getHelp.equalsIgnoreCase("C")) {
+//                             System.out.println(probability + "A:" + 50 + " C:" + 50);
+//                         }
                     }
                     if (questionNumber >= 9) {
                         if (currentScore == 0 || currentScore == 1) {
