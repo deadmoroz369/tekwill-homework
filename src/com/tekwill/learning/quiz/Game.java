@@ -7,7 +7,7 @@ import static com.tekwill.learning.quiz.VikingQuiz.*;
 
 public class Game {
     public static void main(String[] args) {
-        String help = "Help";
+//         String help = "Help";  !!!DON'T USE ANYTHING THAT IS COMMENTED AT THIS TIME BUGS ARE EXPECTED!!!
         String friend = "Friend thinks that the correct answer is: ";
         String auditory = "Auditory says the possible correct answer is: ";
         String probability = "Two of possible incorrect answers were omitted: ";
@@ -32,7 +32,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q1_A_B);
                             System.out.println("c)" + VIKING_Q1_A_C);
                             System.out.println("d)" + VIKING_Q1_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "C";
                             questionScore = 1;
                             break;
@@ -42,7 +42,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q2_A_B);
                             System.out.println("c)" + VIKING_Q2_A_C);
                             System.out.println("d)" + VIKING_Q2_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "B";
                             questionScore = 1;
                             break;
@@ -52,7 +52,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q3_A_B);
                             System.out.println("c)" + VIKING_Q3_A_C);
                             System.out.println("d)" + VIKING_Q3_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "A";
                             questionScore = 1;
                             break;
@@ -61,7 +61,7 @@ public class Game {
                             System.out.println("a)" + VIKING_Q4_A_A);
                             System.out.println("b)" + VIKING_Q4_A_B);
                             System.out.println("c)" + VIKING_Q4_A_C);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "A";
                             questionScore = 1;
                             break;
@@ -71,7 +71,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q5_A_B);
                             System.out.println("c)" + VIKING_Q5_A_C);
                             System.out.println("d)" + VIKING_Q5_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "B";
                             questionScore = 1;
                             break;
@@ -81,7 +81,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q6_A_B);
                             System.out.println("c)" + VIKING_Q6_A_C);
                             System.out.println("d)" + VIKING_Q6_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "D";
                             questionScore = 1;
                             break;
@@ -91,7 +91,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q7_A_B);
                             System.out.println("c)" + VIKING_Q7_A_C);
                             System.out.println("d)" + VIKING_Q7_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "A";
                             questionScore = 1;
                             break;
@@ -101,7 +101,7 @@ public class Game {
                             System.out.println("b)" + VIKING_Q8_A_B);
                             System.out.println("c)" + VIKING_Q8_A_C);
                             System.out.println("d)" + VIKING_Q8_A_D);
-                            System.out.println("Enter [Help] to get help");
+//                             System.out.println("Enter [Help] to get help");
                             currentCorrectAnswer = "C";
                             questionScore = 1;
                             break;
@@ -121,7 +121,7 @@ public class Game {
 //                         System.out.println("Choose who's help you want: \na)Friend\nb)Auditory\nc)Probability");
 //                         String getHelp = scanner.nextLine();
 //                         if (getHelp.equalsIgnoreCase("A")) {
-//careful this here has bugs System.out.println(friend + currentCorrectAnswer);
+//                             System.out.println(friend + currentCorrectAnswer);
 //                         }
 //                         if (getHelp.equalsIgnoreCase("B")) {
 //                             System.out.println(auditory + "A:" + new Random().nextInt(10) + " B:" + new Random().nextInt(15) + " C:" + new Random().nextInt(25) + " D:" + new Random().nextInt(50));
