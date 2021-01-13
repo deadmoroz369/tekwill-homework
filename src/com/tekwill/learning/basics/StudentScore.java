@@ -2,7 +2,7 @@ package com.tekwill.learning.basics;
 
 import java.util.Scanner;
 
-public class TestingGround {
+public class StudentScore {
 
 
     public static void main(String[] args) {
