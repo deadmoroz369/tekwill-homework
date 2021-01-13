@@ -1,9 +1,9 @@
-package com.tekwill.learning.quiz;
+package com.tekwill.learning.trivia.quiz;
 
 import java.util.Random;
 import java.util.Scanner;
 
-import static com.tekwill.learning.quiz.VikingQuiz.*;
+import static com.tekwill.learning.trivia.quiz.VikingQuiz.*;
 
 public class Game {
     public static void main(String[] args) {

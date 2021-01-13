@@ -1,4 +1,4 @@
-package com.tekwill.learning.quiz;
+package com.tekwill.learning.trivia.quiz;
 
 public class VikingQuiz {
 
