@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.coordonates;
-//input and action _ convert 4
 
 import java.util.Scanner;
 
