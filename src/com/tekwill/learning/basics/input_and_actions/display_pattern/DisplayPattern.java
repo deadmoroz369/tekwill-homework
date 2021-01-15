@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.display_pattern;
-//input and action
 
 import java.util.Scanner;
 
