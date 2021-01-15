@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.display_a_pattern.constants;
-//math
 
 import static java.lang.Math.sqrt;
 
