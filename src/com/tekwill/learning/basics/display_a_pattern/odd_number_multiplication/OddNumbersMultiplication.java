@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.odd_number_multiplication;
-
+//
 public class OddNumbersMultiplication {
     public static int ODD_NUM = 1;
 
