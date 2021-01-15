@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.bmi;
-//input and action _ convert 1
 
 import java.util.Scanner;
 
