@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.decimal_to_hex;
-//input and action_ convert 7
 
 import java.util.Scanner;
 
