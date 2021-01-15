@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.distance_driven;
-//input and action _ convert 8
 
 import java.util.Scanner;
 
