@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.world_population;
-//input and action_ calculate
+
 
 import java.util.Scanner;
 
