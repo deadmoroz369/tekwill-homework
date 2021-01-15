@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.tax_included;
-//input and action _calculate
 
 import java.util.Scanner;
 
