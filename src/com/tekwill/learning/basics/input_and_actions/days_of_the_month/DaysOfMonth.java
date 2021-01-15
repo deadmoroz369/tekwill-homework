@@ -1,7 +1,7 @@
 package com.tekwill.learning.basics.input_and_actions.days_of_the_month;
 
 import java.util.Scanner;
-
+//
 public class DaysOfMonth {
     public static final int MONTH_WITH_31_DAYS = 31;
     public static final int MONTH_WITH_30_DAYS = 30;
