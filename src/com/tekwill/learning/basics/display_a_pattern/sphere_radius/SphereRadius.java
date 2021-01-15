@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.sphere_radius;
 
-//display_ a pattern math
 public class SphereRadius {
 
     public static void main(String[] args) {
