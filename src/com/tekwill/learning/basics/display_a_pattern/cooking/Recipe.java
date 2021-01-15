@@ -1,6 +1,6 @@
 package com.tekwill.learning.basics.display_a_pattern.cooking;
 
-////display a pattern 2
+
 public class Recipe {
 
     static String source_url = "https://www.allrecipes.com/recipe/273221/vegan-chocolate-chip-cookies/";
