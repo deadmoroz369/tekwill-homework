@@ -1,4 +1,4 @@
-package com.tekwill.learning.basics.input_and_actions.package_modifiers.software;
+package com.tekwill.learning.basics.package_modifiers.software;
 
 public class Meeting extends Employee {
     private Employee employee;

@@ -1,4 +1,4 @@
-package com.tekwill.learning.basics.input_and_actions.package_modifiers.software;
+package com.tekwill.learning.basics.package_modifiers.software;
 
 public class Employee {
     public String publicFirstName;

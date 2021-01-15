@@ -1,6 +1,6 @@
-package com.tekwill.learning.basics.input_and_actions.package_modifiers.testing;
+package com.tekwill.learning.basics.package_modifiers.testing;
 
-import com.tekwill.learning.basics.input_and_actions.package_modifiers.software.Employee;
+import com.tekwill.learning.basics.package_modifiers.software.Employee;
 
 public class Tester extends Employee {
     private Employee employee;
