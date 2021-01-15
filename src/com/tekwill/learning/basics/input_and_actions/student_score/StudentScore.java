@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.student_score;
-
+//
 import java.util.Scanner;
 
 public class StudentScore {
