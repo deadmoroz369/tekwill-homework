@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.great_circle_distance;
-//input and action _math
 
 import java.util.Scanner;
 
