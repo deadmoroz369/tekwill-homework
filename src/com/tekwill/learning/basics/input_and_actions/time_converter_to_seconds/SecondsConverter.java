@@ -1,7 +1,7 @@
 package com.tekwill.learning.basics.input_and_actions.time_converter_to_seconds;
 
 import java.util.Scanner;
-
+//
 public class SecondsConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
