@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.number_division;
 
-//display a pattern _ math
 public class NumberDivisionVersionA {
     public static void main(String[] args) {
 
