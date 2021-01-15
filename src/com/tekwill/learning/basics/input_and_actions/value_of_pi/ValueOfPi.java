@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.value_of_pi;
 
-
 import java.util.Scanner;
 
 public class ValueOfPi {
