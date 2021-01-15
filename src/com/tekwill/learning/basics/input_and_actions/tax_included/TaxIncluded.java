@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.tax_included;
-
+//
 import java.util.Scanner;
 
 public class TaxIncluded {
