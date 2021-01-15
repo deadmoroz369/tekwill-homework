@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.dollar_bills;
-//input and action _ convert
 
 import java.util.Scanner;
 
