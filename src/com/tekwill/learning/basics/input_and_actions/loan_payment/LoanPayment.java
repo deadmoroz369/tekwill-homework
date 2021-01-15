@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.loan_payment;
-
+//
 import java.util.Scanner;
 
 public class LoanPayment {
