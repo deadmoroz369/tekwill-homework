@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.fuel_consumption;
-//input and action_ convert
 
 import java.util.Scanner;
 
