@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.vowel_or_consonant;
-
+//
 import java.util.Scanner;
 
 public class VowelOrConsonant {
