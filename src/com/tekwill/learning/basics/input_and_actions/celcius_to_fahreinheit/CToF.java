@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.celcius_to_fahreinheit;
-//input and action _ convert 2
 
 import java.util.Scanner;
 
