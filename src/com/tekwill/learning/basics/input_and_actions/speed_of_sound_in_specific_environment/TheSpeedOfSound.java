@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.speed_of_sound_in_specific_environment;
-//input and action _ calculate
 
 import java.util.Scanner;
 
