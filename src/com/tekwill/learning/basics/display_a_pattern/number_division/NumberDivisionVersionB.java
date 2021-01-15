@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.number_division;
-
+//
 public class NumberDivisionVersionB {
     public static void main(String[] args) {
         int counter = 0;
