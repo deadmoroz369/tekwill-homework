@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.vowel_or_consonant;
-//input action
 
 import java.util.Scanner;
 
