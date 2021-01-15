@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.menuchart;
-//input and action
 
 import java.util.Scanner;
 
