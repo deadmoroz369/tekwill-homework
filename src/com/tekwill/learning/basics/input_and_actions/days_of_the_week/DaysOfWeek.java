@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.days_of_the_week;
-//input and action convert 6
 
 import java.util.Scanner;
 
