@@ -8,11 +8,11 @@ public class DisplayPattern {
     public static class DisplayPatterns {
         public static void displayPattern(int n) {
             for (int i = 1; i <= n; i++) {
-                for (int k = n + 1 - i; k > 1; k--) {
+                for (int j = n + 1 - i; j > 1; j--) {
                     System.out.print("  ");
                 }
-                for (int j = i; j > 0; j--) {
-                    System.out.print(j + " ");
+                for (int k = i; k > 0; k--) {
+                    System.out.print(k + " ");
                 }
                 System.out.println();
             }
