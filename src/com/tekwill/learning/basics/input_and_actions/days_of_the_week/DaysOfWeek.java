@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.days_of_the_week;
-
+//
 import java.util.Scanner;
 
 public class DaysOfWeek {
