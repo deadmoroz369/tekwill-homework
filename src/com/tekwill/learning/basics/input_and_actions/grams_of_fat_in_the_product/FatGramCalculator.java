@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.grams_of_fat_in_the_product;
-//input and action_ calculate
 
 import java.util.Scanner;
 
