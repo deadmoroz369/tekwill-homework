@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.great_circle_distance;
-
+//
 import java.util.Scanner;
 
 public class GreatCircleDistance {
