@@ -3,7 +3,6 @@ package com.tekwill.learning.basics.input_and_actions.letter_grade;
 public class LetterToGrade {
     public static int number;
 
-
     public static void convertToNumber(char letter) {
         if (letter == 'A') {
             System.out.println("The numeric value for grade A is 4");

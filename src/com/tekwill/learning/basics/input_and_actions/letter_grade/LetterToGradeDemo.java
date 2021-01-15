@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.letter_grade;
-//
+
 import java.util.Scanner;
 
 import static com.tekwill.learning.basics.input_and_actions.letter_grade.LetterToGrade.convertToNumber;
