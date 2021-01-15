@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import static com.tekwill.learning.basics.input_and_actions.twelve_days_of_christmas_song.TwelveDaysOfChristmasKeywords.*;
 
-//input and action
 public class TwelveDaysOfChristmas {
     public static final int VERSES = 12;
 
