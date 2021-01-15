@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.financial_application;
-//input and action_ calculate
 
 import java.util.Scanner;
 
