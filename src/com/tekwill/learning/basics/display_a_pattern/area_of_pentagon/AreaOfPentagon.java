@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.area_of_pentagon;
 
-//display a pattern _math
 public class AreaOfPentagon {
     public static void main(String[] args) {
         double r = 5.5;
