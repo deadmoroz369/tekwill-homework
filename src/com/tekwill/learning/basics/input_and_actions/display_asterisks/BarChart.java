@@ -3,7 +3,7 @@ package com.tekwill.learning.basics.input_and_actions.display_asterisks;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+//
 public class BarChart {
     public static void main(String[] args) {
         System.out.println("Enter 5 numbers, in range 1 to 30");
