@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.smallest_number;
-
+//
 import java.util.Scanner;
 
 public class SmallestNumber {
