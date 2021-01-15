@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.knight;
-//
+
 public class KnightDemo {
     public static void main(String[] args) {
         Knight k1 = new Knight(33, "Johnson");

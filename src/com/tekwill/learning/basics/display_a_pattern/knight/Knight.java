@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.knight;
 
-
 public class Knight {
 
     static String guild = "Hunters";
