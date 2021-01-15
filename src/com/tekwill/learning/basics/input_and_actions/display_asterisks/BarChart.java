@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.display_asterisks;
-//input and action
 
 import java.util.ArrayList;
 import java.util.List;
