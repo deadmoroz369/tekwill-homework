@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.display_dining_table;
-// rwd
+
 public class Table {
 
     public static void main(String[] arg) {
