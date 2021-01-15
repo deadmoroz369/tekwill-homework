@@ -1,9 +1,8 @@
-package com.tekwill.learning.basics.input_and_actions.cylinder_radius;
-//input and action _math 1
+package com.tekwill.learning.basics.input_and_actions.cylinder_volume;
 
 import java.util.Scanner;
 
-public class CylinderRadius {
+public class CylinderVolume {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Cylinder Radius:");
