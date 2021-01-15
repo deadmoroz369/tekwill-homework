@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.convert_to_ascii;
-//input and action _convert
 
 import java.util.Scanner;
 
