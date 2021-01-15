@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.days_of_the_month;
-//input and action_ convert 5
 
 import java.util.Scanner;
 
