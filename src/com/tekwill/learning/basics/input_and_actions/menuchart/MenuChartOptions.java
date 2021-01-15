@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.menuchart;
-//
+
 public class MenuChartOptions {
 
     public static final String OPTION_ONE = "a) Burger";
