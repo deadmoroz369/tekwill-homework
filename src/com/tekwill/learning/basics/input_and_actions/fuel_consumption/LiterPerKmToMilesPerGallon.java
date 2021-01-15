@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.fuel_consumption;
-
+//
 import java.util.Scanner;
 
 public class LiterPerKmToMilesPerGallon {
