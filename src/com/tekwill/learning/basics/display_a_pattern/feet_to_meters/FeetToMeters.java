@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.feet_to_meters;
 
-//display a pattern _convert
 public class FeetToMeters {
     public static final String FEET_METERS = "Feet\t\tMeters";
     public static final String METERS_FEET = "Meters\t\tFeet";
