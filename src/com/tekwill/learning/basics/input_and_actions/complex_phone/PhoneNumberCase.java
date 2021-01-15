@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import static com.tekwill.learning.basics.input_and_actions.complex_phone.PhoneLettersToKeys.*;
 
-
 public class PhoneNumberCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
