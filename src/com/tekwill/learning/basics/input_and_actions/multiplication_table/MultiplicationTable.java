@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.multiplication_table;
-
+//
 import java.util.Scanner;
 
 public class MultiplicationTable {
