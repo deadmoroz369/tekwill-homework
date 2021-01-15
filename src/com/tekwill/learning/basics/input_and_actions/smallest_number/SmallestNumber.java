@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.smallest_number;
-//input and action_ math
 
 import java.util.Scanner;
 
