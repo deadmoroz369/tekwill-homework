@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.display_a_pattern.factorial;
 
-//display a pattern _ math
 public class Factorial {
     public static void main(String[] args) {
         System.out.println("Number   Factorial");
