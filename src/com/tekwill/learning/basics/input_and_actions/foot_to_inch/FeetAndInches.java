@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.foot_to_inch;
-
+//
 import java.util.Scanner;
 
 public class FeetAndInches {
