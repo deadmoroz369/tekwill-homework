@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.sum_of_digits;
-//input and action _ calculate
 
 import java.util.Scanner;
 
