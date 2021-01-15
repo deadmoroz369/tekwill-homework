@@ -1,6 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.letter_grade;
 
-//input and action _convert
 public class LetterToGrade {
     public static int number;
 
