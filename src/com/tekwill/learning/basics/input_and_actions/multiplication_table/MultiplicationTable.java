@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.multiplication_table;
-//input and action _ math
 
 import java.util.Scanner;
 
