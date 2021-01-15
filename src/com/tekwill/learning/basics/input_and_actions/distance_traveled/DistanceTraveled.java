@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.distance_traveled;
-
+//
 import java.util.Scanner;
 
 public class DistanceTraveled {
