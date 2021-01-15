@@ -1,5 +1,4 @@
 package com.tekwill.learning.basics.input_and_actions.distance_traveled;
-//input and action _calculations
 
 import java.util.Scanner;
 
