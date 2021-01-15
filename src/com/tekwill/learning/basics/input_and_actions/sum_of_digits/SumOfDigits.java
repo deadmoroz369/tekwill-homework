@@ -1,5 +1,5 @@
 package com.tekwill.learning.basics.input_and_actions.sum_of_digits;
-
+//
 import java.util.Scanner;
 
 public class SumOfDigits {
