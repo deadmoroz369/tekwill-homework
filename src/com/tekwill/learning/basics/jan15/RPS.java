@@ -29,7 +29,6 @@ public class RPS {
 
     public static String getHumanPlayerAnswer() {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("");
         return scanner.nextLine();
     }
 
@@ -43,14 +42,13 @@ public class RPS {
 
     public static void playAgain() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Choose again we both have the same! Or quit and loose (press [q] to quit): ");
-        String playAgainValue = scanner.next();
+        System.out.print("Choose again we both have the same! Or quit and loose (press [q] to quit): ");
+        String playAgainValue = scanner.nextLine();
         if (!playAgainValue.equalsIgnoreCase("Q")) {
             compareTheInputs();
         } else {
             System.out.println("You lost without a choice!Goodbye");
         }
-
 
     }
 
