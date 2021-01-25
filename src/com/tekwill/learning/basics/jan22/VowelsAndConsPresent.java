@@ -24,7 +24,7 @@ public class VowelsAndConsPresent {
                 System.out.print("");
             }
         }
-        System.out.println("The number of vowels in the string: " + vowelsCounter);
-        System.out.println("The number of consonants in the string: " + consonantsCounter);
+        System.out.println("The number of vowels in the word: " + vowelsCounter);
+        System.out.println("The number of consonants in the word: " + consonantsCounter);
     }
 }
