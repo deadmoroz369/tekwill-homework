@@ -7,12 +7,12 @@ public class CreditCards {
     public static int MAX_CREDIT_CARD_NUMBER_LENGTH = 16;
     static int sumEven;
     static int sumOdd;
-    //static int[] prefixes = new int[]{4, 5, 6, 37};
+   
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Credit Card Number:");
-        long creditCardNumber = scanner.nextLong();     // 4388576018410707   4388576018402626  5574840223638416
+        long creditCardNumber = scanner.nextLong();    
 
         if (isValid(creditCardNumber)) {
             System.out.println(creditCardNumber + " Is Valid.");
@@ -75,8 +75,7 @@ public class CreditCards {
         return String.valueOf(d).length();
     }
 
-  /* Return the first k number of digits from number.If the
-  number of digits in number is less than k, return number. */
+  
 
     public static long getPrefix(long number, int k) {
         int numberLength = getSize(number);
