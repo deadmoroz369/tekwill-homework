@@ -4,45 +4,6 @@ package com.tekwill.learning.basics.jan22;
 import java.util.Random;
 
 public class Dice {
-//    public static int humanWins = 0;
-//    public static int aiWins = 0;
-//    public static int numberOfTie = 0;
-//
-//
-//    public static int humanPlayerDice(){
-//        Random random = new Random(); // Human Dice Random number
-//        return random.nextInt(6)+1;
-//    }
-//    public static int aiPlayerDice(){
-//        Random random = new Random(); // AI Dice Random number
-//        return random.nextInt(6)+1;
-//    }
-//    public static void playingTenTimes (){
-//        for (int i = 1; i < 11; i++) {
-//            int humanThrowsTheDice = humanPlayerDice();
-//            int aiThrowsTheDice = aiPlayerDice();
-//            if (humanThrowsTheDice > aiThrowsTheDice){humanWins +=1;}
-//            else if (aiThrowsTheDice > humanThrowsTheDice){aiWins +=1;}
-//            else {numberOfTie +=1;}
-//            if (humanWins == aiWins){
-//                extraTurn ();
-//            }
-//        }
-//    } public static void extraTurn(){
-//        for (int i = 0; i < 2; i++) {
-//        humanPlayerDice();
-//        aiPlayerDice();
-//        }
-//    } public static void letUsPlay(){
-//        humanPlayerDice();
-//        aiPlayerDice();
-//        playingTenTimes();
-//    }
-//
-//    public static void main(String[] args) {
-//        letUsPlay();
-//    }
-//}
 
     public static void main(String[] args) {
         Random random = new Random();
