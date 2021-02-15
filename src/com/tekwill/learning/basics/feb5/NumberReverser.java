@@ -1,4 +1,4 @@
-package com.tekwill.learning.feb5;
+package com.tekwill.learning.basics.feb5;
 
 import java.util.ArrayList;
 import java.util.List;
